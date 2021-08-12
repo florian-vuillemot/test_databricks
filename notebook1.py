@@ -1,5 +1,5 @@
 # Databricks notebook source
-print('hello world master')
+dbutils.notebook.exit(21)
 
 # COMMAND ----------
 
